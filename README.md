@@ -1,4 +1,5 @@
-# Classification of the Type of Disaster From Social Media Images
+# Multimodal Damage Identification from Social Media Images
+
 The Repository performs a classification task on the 5879 Images Extracted from the Social Media. As the set of objects in the image is quite diverse and also the set of objects is sparse therefore a huge number of training layers would have been required to develop the model. Therefore, for the task we used the **Inception V3** Pretrained Moel for the Classification Task.
 
 #### Dataset
